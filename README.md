@@ -52,8 +52,10 @@ A deep neural network was designed with TensorFlow's Keras, based on the number 
    - Epochs ran: 50    
 
 #### *Loss result: 56.29%.*
-
 #### *Accuracy results: 72.55%*
+
+**File:** [original model report](/Resources/AlphabetSoup.h5)
+
 
 ---
 
@@ -64,8 +66,10 @@ A deep neural network was designed with TensorFlow's Keras, based on the number 
 - Epochs ran: 50    
 
 #### *Loss result: 56.08%.*
-
 #### *Accuracy results: 72.65%*
+
+**File:** [A1 model report](/Resources/AlphabetSoup_A1.h5)
+
 
 ---
  ### 3) Alternative Model 2 (A2)
@@ -76,8 +80,9 @@ A deep neural network was designed with TensorFlow's Keras, based on the number 
    - Output nodes: 1 
    - Epochs run: 111
 #### *Loss result: 55.96%.*
-
 #### *Accuracy results: 72.75%*
+**File:** [A2 model report](/Resources/AlphabetSoup_A2.h5)
+
 ---
 ![model chart](Images/Screenshot%202024-02-08%20022005.png)
 ---
@@ -101,3 +106,5 @@ Tools Used:
    - Keras
    - Pandas
    - Scikit-learn
+
+**Link to code** [Module 13 code](/venture_funding_with_deep_learning.ipynb)
